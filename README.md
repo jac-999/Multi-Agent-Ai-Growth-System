@@ -1,4 +1,4 @@
-# Multi-Agent AI 增长与运营系统｜项目计划书
+# Multi-Agent AI 增长与运营系统
 
 ## 一、项目背景
 
